@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://martinsedlacek.github.io/sitemap.xml
+Sitemap: https://martin-sedlacek.github.io/sitemap.xml
